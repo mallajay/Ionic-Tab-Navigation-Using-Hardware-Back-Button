@@ -1,0 +1,13 @@
+{
+  "appId": "com.tabnav.test",
+  "appName": "tab-navigation",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

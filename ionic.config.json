@@ -1,0 +1,7 @@
+{
+  "name": "tab-navigation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
